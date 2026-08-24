@@ -2,7 +2,7 @@
   <p><strong>System Modernization × AI-Assisted Engineering</strong></p>
   <h1>Hi, I'm ChiYu Huang 👋</h1>
   <p>
-    我是一名開發工程師，主要使用 C#／ASP.NET Core、Vue 與 Flutter，<br>
+    我是黃祈豫，可以叫我Eric、小愛，我是一名開發工程師，主要使用 C#／ASP.NET Core、Vue 與 Flutter，<br>
     將舊系統逐步整理成可維護的 Web、API 與 App。
   </p>
   <p>
