@@ -91,6 +91,14 @@
 
 把真實問題整理成開源工具、可執行 Demo、文件與技術文章，讓讀者能直接使用，也能理解背後的工程取捨。
 
+<p align="center">
+  <img
+    src="./assets/ai-engineering-loop.gif"
+    width="640"
+    alt="Animated pixel-art AI engineering loop moving through build, test, review, and ship"
+  >
+</p>
+
 ## More Projects
 
 - [SKILLS All-in-one](https://github.com/eric861129/SKILLS_All-in-one)：可搜尋、預覽與下載的開源 AI Agent 技能庫。
@@ -126,6 +134,14 @@
 | Mobile | `Flutter` `Dart` |
 | AI Workflow | `AI Agent` `Codex` `Skill Design` `Prompt / Eval Workflow` |
 | DevOps | `GitHub Actions` `Docker` `Azure` |
+
+<p align="center">
+  <img
+    src="./assets/debug-coffee-deploy.gif"
+    width="480"
+    alt="Animated pixel-art developer debugging with coffee before tests pass and deployment succeeds"
+  >
+</p>
 
 ## Connect
 
