@@ -12,6 +12,13 @@
   </p>
   <p><em>Software engineer modernizing legacy systems and building verifiable AI-assisted engineering workflows.</em></p>
   <p>
+    <img
+      src="./assets/developer-workflow.gif"
+      width="720"
+      alt="Animated workflow showing a legacy system evolving into modular APIs and an AI-assisted engineering pipeline"
+    >
+  </p>
+  <p>
     <a href="#featured-work">View Featured Projects</a>
     · <a href="https://huangchiyu.com/ChiYu-Blog/">Read My Blog</a>
     · <a href="https://www.linkedin.com/in/chiyu-huang/">LinkedIn</a>
@@ -102,6 +109,15 @@
 - [AI Agent Systems](https://huangchiyu.com/ChiYu-Blog/topics/ai-agent/)
 
 ## Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=cs,dotnet,vue,react,ts,vite,flutter,dart,docker,azure,githubactions,git&theme=dark&perline=12"
+      alt="C Sharp, .NET, Vue, React, TypeScript, Vite, Flutter, Dart, Docker, Azure, GitHub Actions, and Git"
+    >
+  </a>
+</p>
 
 | Area | Technologies |
 | --- | --- |
