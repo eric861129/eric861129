@@ -148,3 +148,16 @@
 - Blog：[ChiYu Code Journey](https://huangchiyu.com/ChiYu-Blog/)
 - LinkedIn：[ChiYu Huang](https://www.linkedin.com/in/chiyu-huang/)
 - Email：[iamhandsomeboy1129@gmail.com](mailto:iamhandsomeboy1129@gmail.com)
+
+## Support
+
+如果我的開源專案或技術文章對你有幫助，歡迎透過 Portaly 贊助支持，讓我能持續維護工具與撰寫內容。
+
+<p align="center">
+  <a href="https://portaly.cc/Chiyuisme/support">
+    <img
+      src="https://img.shields.io/badge/Support_me_on-Portaly-ff5c8a?style=for-the-badge&logo=githubsponsors&logoColor=white"
+      alt="Support me on Portaly"
+    >
+  </a>
+</p>
